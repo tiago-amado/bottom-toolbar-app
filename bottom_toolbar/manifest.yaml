@@ -28,6 +28,7 @@ spec:
   supportedCoreVersions:
     - v4.0.0-0
     - v5.0.0-0
+    - v6.0.0-0
   title: Bottom Toolbar
   version: v1alpha1
   components:
